@@ -11,8 +11,3 @@ Trabalho com desenvolvimento de aplicações focado em web, atualmente estou apr
 ![](https://github-readme-stats.vercel.app/api?username=ggustavo-souza&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ggustavo-souza&theme=discord_old_blurple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggustavo-souza&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Repositório com mais contribuições
-![](https://github-contributor-stats.vercel.app/api?username=ggustavo-souza&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
