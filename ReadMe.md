@@ -1,5 +1,5 @@
 # Sobre Mim:
-Trabalho com desenvolvimento de aplicações focado em web, atualmente estou aprendendo Node.js utilizando Typescript. Tenho também expêriencia com PHP. 
+Trabalho com desenvolvimento de aplicações focado em web, atualmente estou aprendendo Node.js utilizando Typescript. Tenho também expêriencia com PHP, Laravel, e React.js. 
 
 
 ## 🌐 Redes Sociais:
