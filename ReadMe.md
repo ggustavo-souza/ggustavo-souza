@@ -1,9 +1,11 @@
 # Sobre Mim:
-Me chamo Gustavo Souza de Oliveira, trabalho com desenvolvimento de aplicações focando em web, atualmente estou aprendendo Node.js utilizando Typescript. Tenho também expêriencia com PHP, Laravel, e React.js. Comecei meus estudos na computação na ETEC Fernando Prestes, onde fiz o curso técnico de Informática para Internet. Nos 3 anos de ETEC, obtive conhecimento sobre lógica de programação e algoritmos, modelagem e estruturação de bancos de dados, desenvolvimento web (Front-end e Back-end) e uma introdução a inteligência artificial e machine learning utilizando Python. Atualmente estou cursando Desenvolvimento de Software Multiplataforma na FATEC Votoratim.
+  Me chamo Gustavo Souza de Oliveira, trabalho com desenvolvimento de aplicações focando em web, atualmente estou aprendendo Node.js utilizando Typescript.
+  Tenho também expêriencia com PHP, Laravel, e React.js. Comecei meus estudos na computação na ETEC Fernando Prestes, onde fiz o curso técnico de Informática para Internet. Nos 3 anos de ETEC, obtive conhecimento sobre lógica de programação e algoritmos, modelagem e estruturação de bancos de dados, desenvolvimento web (Front-end e Back-end) e uma introdução a inteligência artificial e machine learning utilizando Python.
+  Atualmente estou cursando Desenvolvimento de Software Multiplataforma na FATEC Votoratim.
 
 # Projetos
 
-ProjetoCafe: Projeto sendo desenvolvido em Typescript usando React.js no Front-end e Fasfity no Back-end (além do PostgreSQL no banco de dados). O projeto consiste num sistema para uma cafeteria, que necessitava de funções como exibição e edição de um cardápio, monitoramento de pedidos, sistema de pagamentos e geração de relatórios de vendas. O projeto segue em bom fluxo de desenvolvimento.
+  ProjetoCafe: Projeto sendo desenvolvido em Typescript usando React.js no Front-end e Fasfity no Back-end (além do PostgreSQL no banco de dados). O projeto consiste num sistema para uma cafeteria, que necessitava de funções como exibição e edição de um cardápio, monitoramento de pedidos, sistema de pagamentos e geração de relatórios de vendas. O projeto segue em bom fluxo de desenvolvimento.
 
 
 ## 🌐 Redes Sociais:
