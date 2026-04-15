@@ -9,6 +9,8 @@
 
   ProjetoCafe: Projeto sendo desenvolvido em Typescript usando React.js no Front-end e Fasfity no Back-end (além do PostgreSQL no banco de dados). O projeto consiste num sistema para uma cafeteria, que necessitava de funções como exibição e edição de um cardápio, monitoramento de pedidos, sistema de pagamentos e geração de relatórios de vendas. O projeto segue em bom fluxo de desenvolvimento.
 
+  TCC Baronesa: Projeto desenvolvido para a conclusão do curso de Informática para Internet na ETEC Fernando Prestes. Consiste em um website com sistema de vendas de produtos prontos e envio de orçamentos. A aplicação foi construída em React.js (frontend), sendo a API (backend) em PHP. O projeto foi essencial pro aprendizado em frameworks frontend (no caso o React.js), e para outros elementos do projeto também, como o sistema de pagamentos (com gateway do Mercado Pago) e o sistema de envio de e-mails também.
+
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GustavoSouzadeOliveira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souza__gu) 
